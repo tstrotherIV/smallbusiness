@@ -1,0 +1,50 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "departmentId": 1,
+      "computerId": 1,
+      "name": "Jake Harris"
+    },
+    {
+      "id": 2,
+      "departmentId": 2,
+      "computerId": 2,
+      "name": "Anthony Teeter"
+    },
+    {
+      "id": 3,
+      "departmentId": 3,
+      "computerId": 3,
+      "name": "Janna Win"
+    }
+  ],
+  "departments": [
+    {
+      "id": 1,
+      "department": "IT"
+    },
+    {
+      "id": 2,
+      "department": "Accounting"
+    },
+    {
+      "id": 3,
+      "department": "Finance"
+    }
+  ],
+  "computers": [
+    {
+      "id": 1,
+      "computerType": "Mac"
+    },
+    {
+      "id": 2,
+      "computerType": "PC"
+    },
+    {
+      "id": 3,
+      "computerType": "Mac"
+    }
+  ]
+}
